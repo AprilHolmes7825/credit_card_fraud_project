@@ -15,3 +15,17 @@
    Small sample size
    Examples exist
    Narrow audience/outputs low confidence
+
+
+
+   Citations
+   Article
+   https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
+
+   The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+   https://zenodo.org/record/1188976
+
+   Toronto emotional speech set (TESS) Collection
+   https://tspace.library.utoronto.ca/handle/1807/24487
+
+

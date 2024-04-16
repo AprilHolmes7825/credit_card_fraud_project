@@ -15,3 +15,28 @@
    Small sample size
    Examples exist
    Narrow audience/outputs low confidence
+
+   
+
+ # Open Source Speech Emotion Recognition Datasets
+
+   Toronto emotional speech set (TESS) Collection
+   https://tspace.library.utoronto.ca/handle/1807/24487
+
+   The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+   https://zenodo.org/record/1188976
+
+   # Citations
+   Article
+
+   https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
+   
+   https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
+
+   
+  
+
+  
+   
+
+

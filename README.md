@@ -1,23 +1,6 @@
 # Speech Emotion Analyser
 
-  # What is Speech Emotion Recognition?
-  Human speech contains several features that the listener interprets to unpack the rich information transmitted by the speaker. The speaker also inadvertently shares tone, energy, speed, and other acoustic properties, which helps capture the subtext or intention and literal words.
-
-# How does Speech Emotion Recognition Work?
-Scientists apply various audio processing techniques to capture this hidden layer of information that can amplify and extract tonal and acoustic features from speech. Converting audio signals into numeric or vector format is not as straightforward as images. The transformation 
-
- # Open Source Speech Emotion Recognition Datasets
-
-   Toronto emotional speech set (TESS) Collection
-   https://tspace.library.utoronto.ca/handle/1807/24487
-
-   The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
-   https://zenodo.org/record/1188976
-
-   
-
-
-   ## Overview:
+## Overview:
 This project aims to classify emotions from speech using Convolutional Neural Networks (CNNs). Emotion recognition is a vital component in various applications such as human-computer interaction, sentiment analysis, and customer service. By analyzing speech signals, this model predicts the emotional state of the speaker.
 
 ## Dataset:
@@ -48,7 +31,7 @@ The trained model's performance is evaluated using both training and testing dat
 A confusion matrix is generated to visualize the model's performance across different emotions. It provides insights into the model's ability to correctly classify each emotion and identifies any misclassifications.
 
 ## Saving the Model:
-The trained CNN model is saved in two parts: the model architecture is saved as a JSON file (capstone_project_emotion_detection_final_version.json), and the model weights are saved as an HDF5 file (capstone_project_emotion_detection_final_version.weights.h5). These files allow for easy deployment and reuse of the trained model.
+The trained CNN model is saved in two parts: the model architecture is saved as a JSON file (project_emotion_detection_final_version.json), and the model weights are saved as an HDF5 file (project_emotion_detection_final_version.weights.h5). These files allow for easy deployment and reuse of the trained model.
 
 ## Usage:
 
@@ -71,6 +54,16 @@ The trained CNN model is saved in two parts: the model architecture is saved as 
    https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
    
    https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
+
+   Toronto emotional speech set (TESS) Collection
+
+   
+   https://tspace.library.utoronto.ca/handle/1807/24487
+
+   The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
+
+   
+   https://zenodo.org/record/1188976
 
   
    

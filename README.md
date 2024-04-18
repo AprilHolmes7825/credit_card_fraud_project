@@ -29,7 +29,6 @@ This project aims to classify emotions from speech using Convolutional Neural Ne
 ## Dataset:
 - RAVDESS :- This dataset contains audio files of 24 actors speaking different sentences with various emotions.
 - TESS :-This datasetcontains audio files of emotional speech from two actors.
-- 
 ## Dependencies:
 
 - Python 3

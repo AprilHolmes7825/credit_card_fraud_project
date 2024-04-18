@@ -21,8 +21,8 @@ Scientists apply various audio processing techniques to capture this hidden laye
 This project aims to classify emotions from speech using Convolutional Neural Networks (CNNs). Emotion recognition is a vital component in various applications such as human-computer interaction, sentiment analysis, and customer service. By analyzing speech signals, this model predicts the emotional state of the speaker.
 
 ## Dataset:
-- RAVDESS :- This dataset contains audio files of 24 actors speaking different sentences with various emotions.
-- TESS :-This datasetcontains audio files of emotional speech from two actors.
+- RAVDESS(Ryerson Audio-Visual Database of Emotional Speech and Song) :- This dataset contains audio files of 24 actors speaking different sentences with various emotions.
+- TESS(Toronto emotional speech set) :-This datasetcontains audio files of emotional speech from two actors.
 ## Dependencies:
 
 - Python 3

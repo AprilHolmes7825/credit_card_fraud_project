@@ -1,22 +1,10 @@
-1. Credit Card Fraud Predictor
-   Data is available and simple ie CSV
-   Outcome is generally useful and easy to understand
-   Encrypted
-3. Audio Emotion Predictor
-   Dataset is widely used and understood
-   Libros is an interesting tool
-   Data is not available in human-readable format
-4. BIN/IP Checker
-   Useful tool with real-world application
-   Working examples exist
-   Availble examples are highly complex
-5. Fencing data analyzer
-   Simple annotated data
-   Small sample size
-   Examples exist
-   Narrow audience/outputs low confidence
+# Speech Emotion Analyser
 
-   
+  # What is Speech Emotion Recognition?
+  Human speech contains several features that the listener interprets to unpack the rich information transmitted by the speaker. The speaker also inadvertently shares tone, energy, speed, and other acoustic properties, which helps capture the subtext or intention and literal words.
+
+# How does Speech Emotion Recognition Work?
+Scientists apply various audio processing techniques to capture this hidden layer of information that can amplify and extract tonal and acoustic features from speech. Converting audio signals into numeric or vector format is not as straightforward as images. The transformation 
 
  # Open Source Speech Emotion Recognition Datasets
 

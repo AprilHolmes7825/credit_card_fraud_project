@@ -14,13 +14,7 @@ Scientists apply various audio processing techniques to capture this hidden laye
    The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
    https://zenodo.org/record/1188976
 
-   # Citations
-   Article
-
-   https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
    
-   https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
-
 
 
    ## Overview:
@@ -71,6 +65,12 @@ The trained CNN model is saved in two parts: the model architecture is saved as 
 - Neil Lawren
 - Ipsita Pattanaik
   
+## Citations
+   Article
+
+   https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
+   
+   https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
 
   
    

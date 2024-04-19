@@ -55,6 +55,8 @@ The trained CNN model is saved in two parts: the model architecture is saved as 
    
    https://medium.com/@diego-rios/speech-emotion-recognition-with-convolutional-neural-network-ae5406a1c0f7
 
+Dataset
+
    Toronto emotional speech set (TESS) Collection
 
    
